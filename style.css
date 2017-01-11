@@ -1,0 +1,210 @@
+body {
+       color: black;
+       font-family: 'Source Sans Pro', sans-serif;
+       margin: 0px; 
+       padding: 0px 0px 2em;
+}
+
+img {
+	border: 0px;
+}
+
+a {
+       color: #6b9ab6;
+}
+
+.hidden {
+       display: none;
+}
+
+.red {
+       color: #99767c;
+}
+.blue {
+       color: #6b9ab6;
+}
+
+.title {
+       background: white url(images/bg.png) no-repeat center top;
+       background-size: 100% auto;
+       color: white;
+       display: block;
+       font-family: 'Cormorant SC', serif;
+       font-size: 3.382em;
+       font-weight: bold;
+       height: 4.618em;
+       margin: 0 auto;
+       padding-top: 1em;
+       text-align: center;
+       text-decoration: none;
+}
+.title__subtitle {
+       font-size: .85em;
+}
+
+.menu {
+       background-color: white;
+       list-style-type: none;
+       margin: -3em auto 1em;
+       max-width: 755px;
+       padding: 1em 0 0;
+       text-align: center;
+}
+
+.menu li {
+       background-color: #ab6f79;
+       display: inline-block;
+       margin: 1em .5em 0;
+       padding: 0;
+}
+.menu li {
+       display: inline-block;
+       margin: 0 .5em;
+       padding: 0;
+}
+
+.menu li a {
+       background-color: #ab6f79;
+       border: .4em solid #ab6f79;
+       color: white;
+       display: block;
+       font-size: 1.2em;
+       padding: .65em;
+       text-decoration: none;
+}
+
+.menu li a:hover {
+       background-color: white;
+       color: #ab6f79;
+}
+
+.menu li:nth-child(2n+1) a {
+       background-color: #6b9ab6;
+       border: .4em solid #6b9ab6;
+}
+
+.menu li:nth-child(2n+1) a:hover {
+       background-color: white;
+       color: #6b9ab6;
+}
+
+.breadcrumbs {
+       margin-top: 1.618em;
+}
+.breadcrumbs a {
+       color: #BFBFBF;
+       text-decoration: none;
+}
+
+.content {
+       background-color: white;
+       background: white url(images/stripe.png) repeat-x center top;
+       color: black;
+       font-size: 1.2em;
+       margin: 0 auto;
+       max-width: 800px;
+       padding: 1.1em 1em 0;
+}
+
+h1 {
+       margin-bottom: 1em;
+       clear: both;
+}
+.breadcrumbs + h1 {
+       margin-top: 0;
+}
+
+h2 {
+       border-left: .4em solid #6b9ab6;
+       clear: both;
+       padding-left: .4em;
+       margin-left: -.8em;
+}
+h2:nth-of-type(2n+1) {
+       border-color: #ab6f79;
+}
+
+.illustration {
+       width: 37%;
+}
+.illustration--left {
+       float: left;
+       padding-right: 2%;
+}
+.illustration--right {
+       float: right;
+       padding-left: 2%;
+}
+
+table {
+       border-collapse: collapse;
+       margin-bottom: 1em;
+}
+
+td, th {
+       border: 1px solid black;
+       padding: .3em .5em;
+}
+
+th {
+       font-weight: bold;
+}
+
+.content li, .content p {
+	line-height: 1.618em;
+	margin: 0.382em auto;
+}
+
+.content ul {
+	padding-left: 1em;
+}
+
+.content-attention {
+       font-weight: bold;
+       margin: 1em 0;
+       text-align: center;
+}
+
+h1[id="fotogalerie"] ~ p, h1[id="fotogalerie"] ~ p, .photogallery-mark ~ p {
+       -moz-column-count: 4;
+       -moz-column-gap: .5em;
+
+       -webkit-column-count: 4;
+       -webkit-column-gap: .5em;
+
+       column-count: 4;
+       column-gap: .5em;
+}
+h1[id="fotogalerie"] ~ p a, h1[id="fotogalerie"] ~ p a, .photogallery-mark ~ p a {
+       display: block;
+}
+h1[id="fotogalerie"] ~ p img, h1[id="fotogalerie"] ~ p a img, .photogallery-mark ~ p a img {
+	margin: 0;
+	width: 100%;
+}
+
+@media (max-width: 940px) {
+	.title {
+		background-size: auto 4.328em;
+	}
+}
+
+@media (max-width: 755px) {
+	.menu li {
+		margin: .5em;
+	}
+	.title {
+		background-size: 100% auto;
+		font-size: 2.328em;
+		height: 4.328em;
+	}
+}
+
+@media (max-width: 600px) {
+	.title {
+		background-size: auto 100%;
+		font-size: 2em;
+		height: auto;
+		padding-bottom: 2em;
+	}
+}

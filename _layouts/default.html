@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<title>{{ page.title | default: site.title }}</title>
+	{% if page.description %}
+	<meta name="description" content="{{ page.description }}">
+	{% endif %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Cormorant+SC:400,700|Source+Sans+Pro:400,700&amp;subset=latin-ext" rel="stylesheet">
+	<link rel="stylesheet" href="/style.css">
+	<link rel="canonical" href="http://www.ctyridvory-vysocina.cz{{ page.url | default: / | replace:'index','' | replace:'.html','' }}">
+</head>
+<body>
+	<div class="container">
+		<header class="header">
+			<a href="/" class="title">
+				Dům Božího milosrdenství
+				<div class="title__subtitle">
+					Čtyři Dvory - Vysočina
+				</div>
+			</a>
+
+			<ul class="menu">
+				<li><a href="/">Domů</a></li>
+				<li><a href="/fotogalerie">Fotogalerie</a></li>
+				<li><a href="/akce-a-ubytovani">Akce a ubytování</a></li>
+				<li><a href="/volne-terminy">Volné termíny</a></li>
+				<li><a href="/kontakt">Kontakt</a></li>
+			</ul>
+		</header>
+
+		<div class="content">
+			{% unless page.title %}
+			<h1 class="hidden">{{ site.title }}</h1>
+			{% endunless %}
+
+			{{ content }}
+		</div>
+	</div>
+
+	{% if site.google_analytics %}
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("{{ site.google_analytics }}");
+			pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+	{% endif %}
+</body>
+</html>
