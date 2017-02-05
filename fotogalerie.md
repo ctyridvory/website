@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fotogalerie
+title: Fotogalerie - Čtyři Dvory
 ---
 
 # Fotogalerie
