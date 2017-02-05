@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Ceník - Ubytování
+layout: default - Našli jste volný termín? Zavolejte si o jeho rezervaci!
+title: Ceník - Ubytování Čtyři Dvory
 ---
 
 {% include breadcrumbs.html label="Ubytování" link="/akce-a-ubytovani#ubytovn" %}
@@ -8,7 +8,7 @@ title: Ceník - Ubytování
 # Ceník
 
 | Pro jednotlivce              | 380,- Kč / osoba od 3 let / noc |
-| Pro skupiny na 3 a více nocí | 10 000,- Kč / objekt             |
+| Pro skupiny na 3 a více nocí | 10 000,- Kč / objekt / noc             |
 
 - Ceny ubytování jsou vč. 15 % DPH. Nejsem plátce DPH.
 - Sociálně slabé rodiny a samoživitelky v nouzi mohou požádat o slevu. 
@@ -28,7 +28,7 @@ title: Ceník - Ubytování
 
 | Počet dní před příjezdem | Vráceno z ceny |
 |:-------------------------|:---------------|
-| déle než 20 dní          |           100% |
+| déle než 20 dní          |            75% |
 | 20–10 dní                |            50% |
 | 10 dní a méně            |             0% |
 
