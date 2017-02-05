@@ -19,7 +19,6 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 | 2            | 4           |           | jih       | manželská postel, dvě jednolůžka |
 | 3            | 2           |           | západ     | dvě jednolůžka |
 | 4            | 1           |           | západ     | jednolůžko |
-| 9            | 1           |           | západ     | jednolůžko |
 
 ### 2. poschodí
 
@@ -29,6 +28,7 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 | 6            | 3           | +2        | jihovýchod | manželská postel, jednolůžko, nika s dvěma rozkládacími křesly, dětská postýlka |
 | 7            | 4           |           | jih        | manželská postel, dvě jednolůžka |
 | 8            | 3           |           | západ      | manželská postel, jednolůžko |
+| 9            | 1           |           | západ      | jednolůžko |
 
 - U všech pokojů lze požádat o samostatné oddělené postele. 
 - Pokoje zatím nejsou vybaveny ručníky.
