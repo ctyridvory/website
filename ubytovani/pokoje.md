@@ -33,7 +33,7 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 - U všech pokojů lze požádat o samostatné oddělené postele. 
 - Pokoje zatím nejsou vybaveny ručníky.
  
-## Popis [pokojů](/fotogalerie))
+## Popis [pokojů](/fotogalerie)
 
 - velké, slunné, prostorné pokoje (koberec, vysoké stropy, velká okna, rolety, záclony i závěsové šály)
 - nový hotelový nábytek (postele Boxspring, pro lepší vstávání seniorů, noční stolky, lampičky, skříň ramínková, skříň policová, věšáková stěna, zrcadlová stěna, TV s otočným držákem)
@@ -41,7 +41,7 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 - kuchyňská linka na pokoji (nádobí, prostředek na mytí nádobí, utěrky, varná konvice, minilednice, indukční vařič)
 - na každém patře mikrovlnka, velká lednice, sprchy
 
-## Společenská [místnost](/fotogalerie-spolecenska-mistnost))
+## Společenská [místnost](/fotogalerie-spolecenska-mistnost)
 
 - pro společenský program skupin, rodinné oslavy, firemní školení, k dispozici lednice, kávovar na kapsle zn. Nespresso
 - místnost vybavena kobercem, rozkládacími stoly a pohodlnými konferenčními židlemi (25 ks)
@@ -49,7 +49,7 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 - techniku nebo flipchart je nutno mít vlastní, v místnosti je velká TV
 - hrací kout pro děti, společenské hry 
 
-## Místo k modlitbě a [ztišení](/fotogalerie-domc-kaple))
+## Místo k modlitbě a [ztišení](/fotogalerie-domc-kaple)
 
 - domácí „kaple“ ve věži, je vhodná pro cca max. 10 osob
 - v domě můžete zanechat také své osobní prosby o modlitbu, je za ně sloužena mše svatá v rámci ČR. 
@@ -60,7 +60,7 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
  - Slavkovice, poutní kostel Božího milosrdenství, cca 30 min. autem http://www.slavkovice.cz/
  - Žďár nad Sázavou, poutní kostel Jana Nepomuckého, po stopách architekta J. B. Santiniho, http://www.santini.cz/cz/, cca 30 min. cesty autem, http://www.zelena-hora.cz/
 
-## Herní a společenské prvky k využití na [zahradě](/fotogalerie-zima))
+## Herní a společenské prvky k využití na [zahradě](/fotogalerie-zima)
 
 - parkování v areálu, oplocená zahrada, ohniště a gril
 - 1× zastřešené posezení v „lovecké chatě“, 1× posezení pod velkým slunečníkem, 1× dřevěné posezení 
