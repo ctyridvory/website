@@ -38,14 +38,16 @@ title: Kontakt
 
 - **Brno, Královo Pole nádraží** – **Olešnice**
   - bez přestupů, pouze 1 hodina
-  - z Olešnice dovoz autem až do Domu
+  - z Olešnice dovoz autem až do penzionu
 
 - **Brno, Zvonařka autobusové nádraží** – Bystřici nad Pernštejnem – **Čtyři Dvory**
   - 1 přestup, čas 2 hodiny
+  - z Bystřice dovoz autem až do penzionu
 
 ### Vlakem
 
 - Do Bystřice nad Pernštejnem
 - Do Skalice nad Svitavou
+- ze Skalice nebo Bystřice dovoz autem až do penzionu
 
 ![Mapa](images/mapa.jpg)
