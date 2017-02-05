@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default Přijedete jako na chalupu a budete spát jako v hotelu!
 title: Pokoje - Ubytování Čtyři Dvory
 ---
 
