@@ -2,6 +2,9 @@
 description: Našli jste volný termín? Zavolejte si o jeho rezervaci!
 layout: default
 redirect_from:
+  - cenik_dvory_2012.pdf
+  - cenik_dvory_2013.pdf
+  - cenik_dvory_2015.pdf
   - ceny
   - ceny.html
 title: Ceník - Ubytování - Čtyři Dvory Vysočina
