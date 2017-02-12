@@ -3,7 +3,7 @@ layout: default
 title: Prázniny prarodičů s vnoučaty - Čtyři Dvory Vysočina
 ---
 
-{% include breadcrumbs.html label="Akce" link="/akce-a-ubytovani" %}
+{% include breadcrumbs.html label="Akce" link="/ubytovani-a-akce" %}
 
 # Prázniny prarodičů s vnoučaty „Pohádková Vysočina“
 

@@ -4,7 +4,7 @@ layout: default
 title: Pokoje - Ubytování - Čtyři Dvory Vysočina
 ---
 
-{% include breadcrumbs.html label="Ubytování" link="/akce-a-ubytovani#ubytovn" %}
+{% include breadcrumbs.html label="Ubytování" link="/ubytovani-a-akce#ubytovn" %}
 
 # Pokoje
 

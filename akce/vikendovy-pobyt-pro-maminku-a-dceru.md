@@ -1,9 +1,11 @@
 ---
 layout: default
+redirect_from
+  - maminky_leto_2016.pdf
 title: Víkend pro maminku a dceru - Čtyři Dvory Vysočina
 ---
 
-{% include breadcrumbs.html label="Akce" link="/akce-a-ubytovani" %}
+{% include breadcrumbs.html label="Akce" link="/ubytovani-a-akce" %}
 
 # Víkend pro maminku a dceru „Brzy budu velká, mami“
 
