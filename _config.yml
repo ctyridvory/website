@@ -3,4 +3,5 @@ theme: jekyll-theme-cayman
 title: Dům Božího milosrdenství - Čtyři Dvory
 
 gems:
+  - jekyll-redirect-from
   - jekyll-sitemap
