@@ -1,6 +1,6 @@
 ---
 layout: default
-title: O domě
+title: O domě - Čtyři Dvory Vysočina
 ---
 
 # Troška z historie

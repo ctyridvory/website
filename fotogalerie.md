@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fotogalerie - Čtyři Dvory
+title: Fotogalerie - Čtyři Dvory Vysočina
 ---
 
 # Fotogalerie

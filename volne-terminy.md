@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Volné termíny
+title: Volné termíny - Čtyři Dvory Vysočina
 ---
 
 # Volné termíny

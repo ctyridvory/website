@@ -3,7 +3,7 @@ layout: default - Našli jste volný termín? Zavolejte si o jeho rezervaci!
 redirect_from:
   - ceny
   - ceny.html
-title: Ceník - Ubytování Čtyři Dvory
+title: Ceník - Ubytování - Čtyři Dvory Vysočina
 ---
 
 {% include breadcrumbs.html label="Ubytování" link="/akce-a-ubytovani#ubytovn" %}

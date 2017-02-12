@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Víkend pro maminku a dceru „Brzy budu velká, mami“
+title: Víkend pro maminku a dceru - Čtyři Dvory Vysočina
 ---
 
 {% include breadcrumbs.html label="Akce" link="/akce-a-ubytovani" %}

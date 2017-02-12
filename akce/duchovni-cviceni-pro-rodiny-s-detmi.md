@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Duchovní cvičení pro rodiny s dětmi „Milosrdenství v rodině“
+title: Duchovní cvičení pro rodiny s dětmi - Čtyři Dvory Vysočina
 ---
 
 {% include breadcrumbs.html label="Akce" link="/akce-a-ubytovani" %}

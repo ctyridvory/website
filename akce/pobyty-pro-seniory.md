@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pobyty pro seniory „Zdravotní cvičení, trénink paměti a turistika“
+title: Pobyty pro seniory - Čtyři Dvory Vysočina
 ---
 
 {% include breadcrumbs.html label="Akce" link="/akce-a-ubytovani" %}

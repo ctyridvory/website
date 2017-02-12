@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pololetní a jarní prázdniny pro rodiny s dětmi "Vysočina, ráj zimních sportů"
+title: Pololetní a jarní prázdniny pro rodiny s dětmi - Čtyři Dvory Vysočina
 ---
 
 {% include breadcrumbs.html label="Akce" link="/akce-a-ubytovani" %}

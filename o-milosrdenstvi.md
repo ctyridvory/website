@@ -1,6 +1,6 @@
 ---
 layout: default
-title: O milosrdenství - Čtyři Dvory
+title: O milosrdenství - Čtyři Dvory Vysočina
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Medailonky
+title: Medailonky - Čtyři Dvory Vysočina
 ---
 
 # Představujeme se
