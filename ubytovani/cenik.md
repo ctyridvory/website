@@ -1,5 +1,6 @@
 ---
-layout: default - Našli jste volný termín? Zavolejte si o jeho rezervaci!
+description: Našli jste volný termín? Zavolejte si o jeho rezervaci!
+layout: default
 redirect_from:
   - ceny
   - ceny.html

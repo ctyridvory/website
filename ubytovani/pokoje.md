@@ -1,5 +1,6 @@
 ---
-layout: default Přijedete jako na chalupu a budete spát jako v hotelu!
+description: Přijedete jako na chalupu a budete spát jako v hotelu!
+layout: default
 title: Pokoje - Ubytování - Čtyři Dvory Vysočina
 ---
 
