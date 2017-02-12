@@ -1,5 +1,16 @@
 ---
 layout: default
+redirect_from:
+  - foto1
+  - foto1.html
+  - foto2
+  - foto2.html
+  - foto3
+  - foto3.html
+  - foto4
+  - foto4.html
+  - foto5
+  - foto5.html
 title: Fotogalerie - Čtyři Dvory Vysočina
 ---
 
