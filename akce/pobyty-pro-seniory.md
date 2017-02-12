@@ -1,5 +1,8 @@
 ---
 layout: default
+redirect_from:
+  - vikend_pro_seniory_2016.pdf
+  - vikend_pro_seniory2_2016.pdf
 title: Pobyty pro seniory - Čtyři Dvory Vysočina
 ---
 
