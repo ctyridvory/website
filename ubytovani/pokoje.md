@@ -14,22 +14,22 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 
 ### 1. poschodí
 
-| Číslo pokoje | Počet lůžek | Přistýlky | Orientace | Popis lůžek |
-|:-------------|:------------|:----------|:----------|:------------|
-| 1  ([fotky](/fotogalerie#pokoj-1a5))          | 3           | +1        | východ    | manželská postel, jednolůžko, rozkládací křeslo |
-| 2  ([fotky](/fotogalerie#pokoj-2a7))         | 4           |           | jih       | manželská postel, dvě jednolůžka |
-| 3   ([fotky](/fotogalerie#pokoj-3))         | 2           |           | západ     | dvě jednolůžka |
-| 4   ([fotky](/fotogalerie#pokoj-4a9))         | 1           |           | západ     | jednolůžko |
+| Číslo pokoje                          | Počet lůžek | Přistýlky | Orientace | Popis lůžek |
+|:--------------------------------------|:------------|:----------|:----------|:------------|
+| 1 ([fotky](/fotogalerie#pokoj-1-a-5)) | 3           | +1        | východ    | manželská postel, jednolůžko, rozkládací křeslo |
+| 2 ([fotky](/fotogalerie#pokoj-2-a-7)) | 4           |           | jih       | manželská postel, dvě jednolůžka |
+| 3 ([fotky](/fotogalerie#pokoj-3))     | 2           |           | západ     | dvě jednolůžka |
+| 4 ([fotky](/fotogalerie#pokoj-4-a-9)) | 1           |           | západ     | jednolůžko |
 
 ### 2. poschodí
 
-| Číslo pokoje | Počet lůžek | Přistýlky | Orientace | Popis lůžek |
-|:-------------|:------------|:----------|:-----------|:------------|
-| 5   ([fotky](/fotogalerie#pokoj-1a5))         | 3           | +1        | východ     | manželská postel, jednolůžko, rozkládací křeslo |
-| 6 ([fotky](/fotogalerie#pokoj-6))           | 3           | +2        | jihovýchod | manželská postel, jednolůžko, nika s dvěma rozkládacími křesly, dětská postýlka |
-| 7   ([fotky](/fotogalerie#pokoj-2a7))         | 4           |           | jih        | manželská postel, dvě jednolůžka |
-| 8   ([fotky](/fotogalerie#pokoj-8))         | 3           |           | západ      | manželská postel, jednolůžko |
-| 9   ([fotky](/fotogalerie#pokoj-4a9))         | 1           |           | západ      | jednolůžko |
+| Číslo pokoje                          | Počet lůžek | Přistýlky | Orientace | Popis lůžek |
+|:--------------------------------------|:------------|:----------|:-----------|:------------|
+| 5 ([fotky](/fotogalerie#pokoj-1-a-5)) | 3           | +1        | východ     | manželská postel, jednolůžko, rozkládací křeslo |
+| 6 ([fotky](/fotogalerie#pokoj-6))     | 3           | +2        | jihovýchod | manželská postel, jednolůžko, nika s dvěma rozkládacími křesly, dětská postýlka |
+| 7 ([fotky](/fotogalerie#pokoj-2-a-7)) | 4           |           | jih        | manželská postel, dvě jednolůžka |
+| 8 ([fotky](/fotogalerie#pokoj-8))     | 3           |           | západ      | manželská postel, jednolůžko |
+| 9 ([fotky](/fotogalerie#pokoj-4-a-9)) | 1           |           | západ      | jednolůžko |
 
 - U všech pokojů lze požádat o samostatné oddělené postele. 
 - Pokoje zatím nejsou vybaveny ručníky.
