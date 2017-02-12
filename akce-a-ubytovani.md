@@ -1,5 +1,8 @@
 ---
 layout: default
+redirect_from:
+  - aktuality
+  - aktuality.html
 title: Akce a ubytování
 ---
 
