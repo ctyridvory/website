@@ -101,5 +101,6 @@ V rámci snídaní využíváme regionální výrobky a malé živnostníky z ok
 ### Nebo jen tak prožívat největší bohatství života: klid, přírodu, hvězdy nad hlavou, ticho bez stresu a shonu, možnost srovnat si své životní priority, mít čas na sebe, na manžela/manželku, děti, rodinu, přátele. 
 
 ### Těšíme se na Vás a přejeme Vám dostatek odpočinku a načerpání nových sil do života!
+
 ### Za rodinný penzion Dana a Jiří Žižkovští a za ostatní děti nejmladší syn Jakub a jeho dva portugalští vodní psi, na které není alergie, [Genius a Island](/fotky)
 
