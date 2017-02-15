@@ -32,7 +32,7 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 | 9 ([fotky](/fotogalerie#pokoje-4-a-9)) | 1           |           | západ      | jednolůžko |
 
 - U všech pokojů lze požádat o samostatné oddělené postele. 
-- Pokoje zatím nejsou vybaveny ručníky.
+- Pokoje zatím nejsou vybaveny ručníky. Doporučujeme vzít si sebou i papuče.
  
 ## Popis [pokojů](/fotogalerie)
 
@@ -98,8 +98,8 @@ V rámci snídaní využíváme regionální výrobky a malé živnostníky z ok
  - zřícenina http://info.bystricenp.cz/zricenina-hradu-zubstejn
  - http://www.region-vysocina.cz/tipy
 
-### Nebo jen tak prožívat největší bohatství života: klid, přírodu, hvězdy nad hlavou, ticho bez stresu a shonu, možnost srovnat si své životní priority, mít na sebe, na manžela/manželku, děti, rodinu, přátele. 
+### Nebo jen tak prožívat největší bohatství života: klid, přírodu, hvězdy nad hlavou, ticho bez stresu a shonu, možnost srovnat si své životní priority, mít čas na sebe, na manžela/manželku, děti, rodinu, přátele. 
 
 ### Těšíme se na Vás a přejeme Vám dostatek odpočinku a načerpání nových sil do života!
-### Za rodinný penzion [Dana a Jiří Žižkovští] (/domaci) a za ostatní děti nejmladší syn Jakub a dva portugalští vodní psi, na které není alergie, [Genius a Island] (/fotogalerie-nasi-psi)
+### Za rodinný penzion Dana a Jiří Žižkovští a za ostatní děti nejmladší syn Jakub a jeho dva portugalští vodní psi, na které není alergie, [Genius a Island] (/fotky)
 
