@@ -102,5 +102,6 @@ V rámci snídaní využíváme regionální výrobky a malé živnostníky z ok
 
 ### Těšíme se na Vás a přejeme Vám dostatek odpočinku a načerpání nových sil do života!
 
-### Za rodinný penzion Dana a Jiří Žižkovští a za ostatní děti nejmladší syn Jakub a jeho dva portugalští vodní psi, na které není alergie, [Genius a Island](/fotky)
+### Za rodinný penzion Dana a Jiří Žižkovští a za ostatní děti nejmladší syn Jakub a jeho dva portugalští vodní psi, na které není alergie, ([Genius a Island](/fotky/nasi-psi))
+
 
