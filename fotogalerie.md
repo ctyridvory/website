@@ -54,12 +54,12 @@ title: Fotogalerie - Čtyři Dvory Vysočina
 [ ![Pokoje 1 a 5](/fotky/pokoje-1-a-5/03.jpg) ](/fotky/pokoje-1-a-5/03.jpg)
 [ ![Pokoje 1 a 5](/fotky/pokoje-1-a-5/04.jpg) ](/fotky/pokoje-1-a-5/04.jpg)
 
-## Pokoje 3 a 7
+## Pokoje 2 a 7
 
-[ ![Pokoje 3 a 7](/fotky/pokoje-3-a-7/01.jpg) ](/fotky/pokoje-3-a-7/01.jpg)
-[ ![Pokoje 3 a 7](/fotky/pokoje-3-a-7/02.jpg) ](/fotky/pokoje-3-a-7/02.jpg)
-[ ![Pokoje 3 a 7](/fotky/pokoje-3-a-7/03.jpg) ](/fotky/pokoje-3-a-7/03.jpg)
-[ ![Pokoje 3 a 7](/fotky/pokoje-3-a-7/04.jpg) ](/fotky/pokoje-3-a-7/04.jpg)
+[ ![Pokoje 2 a 7](/fotky/pokoje-2-a-7/01.jpg) ](/fotky/pokoje-2-a-7/01.jpg)
+[ ![Pokoje 2 a 7](/fotky/pokoje-2-a-7/02.jpg) ](/fotky/pokoje-2-a-7/02.jpg)
+[ ![Pokoje 2 a 7](/fotky/pokoje-2-a-7/03.jpg) ](/fotky/pokoje-2-a-7/03.jpg)
+[ ![Pokoje 2 a 7](/fotky/pokoje-2-a-7/04.jpg) ](/fotky/pokoje-2-a-7/04.jpg)
 
 ## Pokoje 4 a 9
 
