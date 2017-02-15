@@ -10,7 +10,20 @@ title: Akce a ubytování
 
 ## Ubytování
 
-Ve [volných termínech](/volne-terminy) nabízíme ubytování pro jednotlivce i pro skupiny. Přívítáme zejména rodiny s dětmi nebo farní společenství. V méně obsazených měsících u nás firmy nalezly dostatek klidu a prostoru pro svá soustředění a školení. K dispozici je 9 pokojů (28 míst). Těšíme se na Vás!
+Ve [volných termínech](/volne-terminy) nabízíme ubytování pro jednotlivce i pro skupiny. 
+Často se u nás ubytují například:
+ - tatínci s dětmi
+ - maminky s dětmi
+ - celé rodiny na dovolenou
+ - senioři i prarodiče s vnoučaty
+ - turisté i lyžaři
+ - skupiny mládeže anebo farní společenství
+ - lidé, kteří u nás chtějí oslavit svá různá jubilea či jiné významné dny
+ - firmy, které zde nalezly dostatek klidu a prostoru pro svá soustředění a školení. 
+ 
+ K dispozici je 9 pokojů (28 míst). 
+ 
+ Těšíme se na Vás!
 
 - [Více o pokojích](/ubytovani/pokoje)
 - [Ceník ubytování](/ubytovani/cenik)
