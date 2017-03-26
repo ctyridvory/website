@@ -20,7 +20,27 @@ title: Fotogalerie - Čtyři Dvory Vysočina
 
 [ ![Jaro](/fotky/jaro/20160422_163253.jpg) ](/fotky/jaro/20160422_163253.jpg)
 [ ![Jaro](/fotky/jaro/20160422_163306.jpg) ](/fotky/jaro/20160422_163306.jpg)
+[ ![Velikonoční výzdoba](/fotky/jaro/Velikonoce.jpg) ](/fotky/jaro/Velikonoce.jpg)
 [ ![Domeček na hraní pro děti se skluzavkou](/fotky/jaro/domecek-na-hrani.jpg) ](/fotky/jaro/domecek-na-hrani.jpg)
+[ ![Domeček na hraní pro děti se skluzavkou](/fotky/jaro/domecek-na-hrani.jpg) ](/fotky/jaro/domecek-na-hrani.jpg)
+[ ![Houpačky a domeček na hraní](/fotky/jaro/houpačky a domeček.jpg) ](/fotky/jaro/houpačky a domeček.jpg)
+[ ![Rozkvetlé jabloně](/fotky/jaro/jabloně.jpg) ](/fotky/jaro/jabloně.jpg)
+[ ![Jarní květiny na zahradě](/fotky/jaro/jarní květiny na zahradě.jpg) ](/fotky/jaro/jarní květiny na zahradě.jpg)
+[ ![Místo pro tvoření i posezení](/fotky/jaro/místo i pro výtvarné tvoření a program.jpg) ](/fotky/jaro/místo i pro výtvarné tvoření a program.jpg)
+[ ![Ohniště](/fotky/jaro/ohniště.jpg) ](/fotky/jaro/ohniště.jpg)
+[ ![Parkování v objektu](/fotky/jaro/parkování v objektu.jpg) ](/fotky/jaro/parkování v objektu.jpg)
+[ ![Pohled na dům od ohniště](/fotky/jaro/pohled od ohniště.jpg) ](/fotky/jaro/pohled od ohniště.jpg)
+[ ![Pohled na dům od parkoviště](/fotky/jaro/pohled od parkoviště.jpg) ](/fotky/jaro/pohled od parkoviště.jpg)
+[ ![Pohled na dům z cesty](/fotky/jaro/pohled z cesty.jpg) ](/fotky/jaro/pohled z cesty.jpg)
+[ ![Posezení pod rozkvetlou kdoulí](/fotky/jaro/posezení pod rozkvetlou kdoulí.jpg) ](/fotky/jaro/posezení pod rozkvetlou kdoulí.jpg)
+[ ![Posezení pod slunečníkem](/fotky/jaro/posezení pod slunečníkem.jpg) ](/fotky/jaro/posezení pod slunečníkem.jpg)
+[ ![Prolízačky](/fotky/jaro/průlezky.jpg) ](/fotky/jaro/průlezky.jpg)
+[ ![Ruské kuželky](/fotky/jaro/ruské kuželky.jpg) ](/fotky/jaro/ruské kuželky.jpg)
+[ ![Trampolína a prostor pro fotbal](/fotky/jaro/trampolína a místo pro fotbalové branky.jpg) ](/fotky/jaro/trampolína a místo pro fotbalové branky.jpg)
+[ ![Houpačky a pískoviště](/fotky/jaro/věkově různé houpačky a pískoviště.jpg) ](/fotky/jaro/věkově různé houpačky a pískoviště.jpg)
+[ ![Zastřešené posezení s grilem](/fotky/jaro/zastřešené posezení s grilem.jpg) ](/fotky/jaro/zastřešené posezení s grilem.jpg)
+[ ![Záhonky](/fotky/jaro/záhonky.jpg) ](/fotky/jaro/záhonky.jpg)
+[ ![Červené lísky a kdoule v květu](/fotky/jaro/červené lísky a kdoule v kěvtu.jpg) ](/fotky/jaro/červené lísky a kdoule v kěvtu.jpg)
 
 ## Společenská místnost
 
