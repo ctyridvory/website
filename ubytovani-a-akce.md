@@ -12,6 +12,7 @@ title: Akce a ubytování
 
 Ve [volných termínech](/volne-terminy) nabízíme ubytování pro jednotlivce i pro skupiny. 
 Často se u nás ubytují například:
+
  - tatínci s dětmi
  - maminky s dětmi
  - celé rodiny na dovolenou
