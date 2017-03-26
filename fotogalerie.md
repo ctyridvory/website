@@ -20,6 +20,7 @@ title: Fotogalerie - Čtyři Dvory Vysočina
 
 [ ![Jaro](/fotky/jaro/20160422_163253.jpg) ](/fotky/jaro/20160422_163253.jpg)
 [ ![Jaro](/fotky/jaro/20160422_163306.jpg) ](/fotky/jaro/20160422_163306.jpg)
+[ ![Domeček na hraní pro děti se skluzavkou](/fotky/jaro/domecek-na-hrani.jpg) ](/fotky/jaro/domecek-na-hrani.jpg)
 
 ## Společenská místnost
 
