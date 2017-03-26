@@ -36,7 +36,6 @@ Ve [volných termínech](/volne-terminy) nabízíme ubytování pro jednotlivce 
 | Nejbližší termín     | Pobyt |
 |:---------------------|:------|
 | 2. – 5. února 2017   | [Pololetní a jarní prázdniny](/akce/pololetni-a-jarni-prazdniny) |
-| 21. – 23. dubna 2017 | [Víkendový pobyt pro maminku a dceru](/akce/vikendovy-pobyt-pro-maminku-a-dceru) |
-| 4. – 8. května 2017  | [Pobyty pro seniory](/akce/pobyty-pro-seniory) |
+|21. – 24. září 2017  | [Pobyty pro seniory](/akce/pobyty-pro-seniory) |
 | 2. – 6. srpna 2017   | [Duchovní cvičení pro rodiny](/akce/duchovni-cviceni-pro-rodiny-s-detmi) |
-| 13. – 18. srpna 2017 | [Prázdniny pro prarodiče s vnoučaty](/akce/prazdniny-pro-prarodice-s-vnoucaty) |
+
