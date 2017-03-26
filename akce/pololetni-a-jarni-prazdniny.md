@@ -5,7 +5,7 @@ title: Pololetní a jarní prázdniny pro rodiny s dětmi - Čtyři Dvory Vysoč
 
 {% include breadcrumbs.html label="Akce" link="/ubytovani-a-akce" %}
 
-# Pololetní a jarní prázdniny pro rodiny s dětmi "Vysočina, ráj zimních sportů"
+# Proběhlo: Pololetní a jarní prázdniny pro rodiny s dětmi "Vysočina, ráj zimních sportů"
 
 **SLEVA: dva platící dospělí + 1 dítě zdarma**
 
