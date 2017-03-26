@@ -18,10 +18,7 @@ title: Fotogalerie - Čtyři Dvory Vysočina
 
 ## Jaro
 
-[ ![Jaro](/fotky/jaro/20160422_163253.jpg) ](/fotky/jaro/20160422_163253.jpg)
-[ ![Jaro](/fotky/jaro/20160422_163306.jpg) ](/fotky/jaro/20160422_163306.jpg)
 [ ![Velikonoční výzdoba](/fotky/jaro/Velikonoce.jpg) ](/fotky/jaro/Velikonoce.jpg)
-[ ![Domeček na hraní pro děti se skluzavkou](/fotky/jaro/domecek-na-hrani.jpg) ](/fotky/jaro/domecek-na-hrani.jpg)
 [ ![Domeček na hraní pro děti se skluzavkou](/fotky/jaro/domecek-na-hrani.jpg) ](/fotky/jaro/domecek-na-hrani.jpg)
 [ ![Houpačky a domeček na hraní](/fotky/jaro/houpačky a domeček.jpg) ](/fotky/jaro/houpačky a domeček.jpg)
 [ ![Rozkvetlé jabloně](/fotky/jaro/jabloně.jpg) ](/fotky/jaro/jabloně.jpg)
