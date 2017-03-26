@@ -82,3 +82,26 @@ title: Fotogalerie - Čtyři Dvory Vysočina
 ## Naši psi
 
 [ ![Naši psi](/fotky/nasi-psi/01.jpg) ](/fotky/nasi-psi/01.jpg)
+
+## Zima
+
+[ ![Zima 1](/fotky/zima/01.jpg) ](/fotky/zima/01.jpg)
+[ ![Zima 1](/fotky/zima/02.jpg) ](/fotky/zima/02.jpg)
+[ ![Zima 1](/fotky/zima/03.jpg) ](/fotky/zima/03.jpg)
+[ ![Zima 1](/fotky/zima/04.jpg) ](/fotky/zima/04.jpg)
+[ ![Zima 1](/fotky/zima/05.jpg) ](/fotky/zima/05.jpg)
+[ ![Zima 1](/fotky/zima/06.jpg) ](/fotky/zima/06.jpg)
+[ ![Zima 1](/fotky/zima/07.jpg) ](/fotky/zima/07.jpg)
+[ ![Zima 1](/fotky/zima/08.jpg) ](/fotky/zima/08.jpg)
+[ ![Zima 1](/fotky/zima/09.jpg) ](/fotky/zima/09.jpg)
+[ ![Zima 1](/fotky/zima/10.jpg) ](/fotky/zima/10.jpg)
+[ ![Zima 1](/fotky/zima/11.jpg) ](/fotky/zima/11.jpg)
+[ ![Zima 1](/fotky/zima/12.jpg) ](/fotky/zima/12.jpg)
+[ ![Zima 1](/fotky/zima/12.jpg) ](/fotky/zima/13.jpg)
+[ ![Zima 1](/fotky/zima/14.jpg) ](/fotky/zima/14.jpg)
+[ ![Zima 1](/fotky/zima/15.jpg) ](/fotky/zima/15.jpg)
+[ ![Zima 1](/fotky/zima/16.jpg) ](/fotky/zima/16.jpg)
+[ ![Zima 1](/fotky/zima/17.jpg) ](/fotky/zima/17.jpg)
+[ ![Zima 1](/fotky/zima/18.jpg) ](/fotky/zima/18.jpg)
+[ ![Zima 1](/fotky/zima/19.jpg) ](/fotky/zima/19.jpg)
+[ ![Zima 1](/fotky/zima/20.jpg) ](/fotky/zima/20.jpg)
