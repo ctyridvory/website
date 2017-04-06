@@ -11,7 +11,7 @@ title: Kontakt - Čtyři Dvory Vysočina
 | **Datum zahájení provozu** | 1. 5. 2016 |
 | **IČ**                     | 70427615 |
 | **Číslo účtu**             | 276364075/0300 (VS a SS je přidělen po potvrzení přihlášky) |
-| **E-mail**                 | [info@ctyridvory-vysocina.cz](mailto:info@ctyridvory-vysocina.cz) |
+| **E-mail**                 | [ctyridvoryvysocina@gmail.com](mailto:ctyridvoryvysocina@gmail.com) |
 | **Telefon**                | +420 739 020 886 |
 
 - Dům je v provozu celý rok.
