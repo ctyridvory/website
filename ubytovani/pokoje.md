@@ -71,9 +71,9 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 ## Stravování
 
 - pro vlastní stravování slouží kuchyňky a veškeré vybavení na pokoji
-- hosté si mohou objednat snídaně (50/25Kč)  10 osob nebo dovoz teplých jídel, obědů (90/45 Kč) a večeří (80/40 Kč) dospělé/poloviční porce 
+- případně si můžete domluvit dovoz teplých jídel z restaurace ve Štěpánově nad Svratkou
 
-V rámci snídaní využíváme regionální výrobky a malé živnostníky z okolí. Uzeniny řezníka Šutery, máslo a sýry z mlékárny Olešnice, mléko, vejce, tvaroh ze statku z Brťoví nebo z farmy Eden Bystřice, pečivo z pekárny pana Koudelky. Med pana Slezáka. Ke kávě doporučujeme trubičky paní Maršálkové z Prosetína. 
+Doporučujeme ochutnat regionální výrobky z nabídky malých živnostníků v okolí. Uzeniny řezníka Šutery, máslo a sýry z mlékárny Olešnice, mléko, vejce, tvaroh ze statku z Brťoví nebo z farmy Eden Bystřice, pečivo z pekárny pana Koudelky. Med pana Slezáka. Ke kávě doporučujeme trubičky paní Maršálkové z Prosetína.
 
 ## Tipy při pobytu
 
