@@ -8,7 +8,7 @@ title: Pokoje - Ubytování - Čtyři Dvory Vysočina
 
 # Pokoje
 
-Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůžek a 4 přistýlky.
+Rodinný penzion poskytuje svým hostům 26 míst. Jedná se o 23 pevných lůžek a 3 přistýlky.
 
 ## Rozpis lůžek
 
@@ -16,7 +16,7 @@ Rodinný penzion poskytuje svým hostům 28 míst. Jedná se o 24 pevných lůž
 
 | Číslo pokoje                           | Počet lůžek | Přistýlky | Orientace | Popis lůžek |
 |:---------------------------------------|:------------|:----------|:----------|:------------|
-| 1 ([fotky](/fotogalerie#pokoje-1-a-5)) | 3           | +1        | východ    | manželská postel, jednolůžko, rozkládací křeslo |
+| 1 ([fotky](/fotogalerie#pokoje-1-a-5)) | 3           |           | východ    | manželská postel, jednolůžko, rozkládací křeslo |
 | 2                                      | 4           |           | jih       | manželská postel, dvě jednolůžka |
 | 3 ([fotky](/fotogalerie#pokoje-3-a-7)) | 2           |           | západ     | dvě jednolůžka |
 | 4 ([fotky](/fotogalerie#pokoje-4-a-9)) | 1           |           | západ     | jednolůžko |
