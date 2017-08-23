@@ -26,7 +26,7 @@ title: Ceník - Ubytování - Čtyři Dvory Vysočina
 ## Postup rezervace a pokyny k platbě
 
 - telefonické ověření volného termínu + 420 739 020 886
-- po telefonické domluvě zašlete poptávku na e-mail info@ctyridvory-vysocina.cz
+- po telefonické domluvě zašlete poptávku na e-mail ctyridvoryvysocina@gmail.com
 - obratem Vám bude potvrzena objednávka a vystaveny pokyny k platbě včetně zálohové faktury
 - úhradou zálohové faktury převodem na účet číslo 276364075/0300 (Poštovní spořitelna ČSOB) je Vaše rezervace platná a závazná
 - po skončení pobytu je Vám vystavena konečná faktura
